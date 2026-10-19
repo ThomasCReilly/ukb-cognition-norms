@@ -1,0 +1,20 @@
+# Python dependencies for the Jupyter notebooks (developed on Python 3.13).
+# Install with:  pip install -r requirements.txt
+#
+# R (>= 4.5) must also be installed for rpy2 and the 03*/05a R scripts.
+# See README.txt for the list of R packages.
+
+pandas>=3.0
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.9
+seaborn>=0.13
+statsmodels>=0.14
+scikit-learn>=1.5
+
+# Runs the R cells (%%R) in the 07* notebooks
+rpy2>=3.5
+
+# Notebook environment
+jupyter
+ipykernel>=6.0

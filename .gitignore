@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.DS_Store
+.Rhistory
+.RData
+*.csv
+*.txt
+!README.txt
+!requirements.txt
+*.RData
+*.png
+*.svg
+*.html
