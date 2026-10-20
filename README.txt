@@ -176,11 +176,6 @@ NOTES
   07d-07f).
 
 
-CITATION
---------
-[Add citation / DOI when available]
-
-
 CONTACT
 -------
 reilly.t@unimelb.edu.au
